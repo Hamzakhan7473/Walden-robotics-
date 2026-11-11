@@ -1,0 +1,41 @@
+request_id,customer_name,funded_rate,stability,baseline_decision
+R007,Quarry Drive Systems,1.0,robust_yes,funded
+R011,Lowridge Components,1.0,robust_yes,funded
+R020,Dunlin Stamping,1.0,robust_yes,funded
+R023,Rookery Chassis,1.0,robust_yes,funded
+R025,Tarn Circuit Assembly,1.0,robust_yes,funded
+R029,Keel Microassembly,1.0,robust_yes,funded
+R033,Whitlow Fulfillment,1.0,robust_yes,funded
+R035,Marlow Components,1.0,robust_yes,funded
+R038,Anvil Beverage Pack,1.0,robust_yes,funded
+R012,Pember Provisions,0.955,robust_yes,funded
+R014,Ironwharf Device Works,0.955,robust_yes,funded
+R036,Pellin Circuit Assembly,0.955,robust_yes,funded
+R003,Millshaw Warehousing,0.045,robust_no,waitlisted
+R010,Cinder Precision Parts,0.045,robust_no,waitlisted
+R034,Soren Circuit Assembly,0.045,robust_no,waitlisted
+R001,Calder Circuit Assembly,0.0,robust_no,waitlisted
+R002,Northfen Chassis,0.0,robust_no,waitlisted
+R004,Redoak Components,0.0,robust_no,waitlisted
+R005,Harlow Warehousing,0.0,robust_no,waitlisted
+R006,Bexley Circuit Assembly,0.0,robust_no,waitlisted
+R008,Lantern Warehousing,0.0,robust_no,waitlisted
+R009,Westmere Chassis,0.0,robust_no,rejected
+R013,Kittredge Stamping,0.0,robust_no,waitlisted
+R015,Dovetail Logistics,0.0,robust_no,waitlisted
+R016,Bracken Warehousing,0.0,robust_no,waitlisted
+R017,Yarrow Chassis,0.0,robust_no,waitlisted
+R018,Holt Precision Parts,0.0,robust_no,waitlisted
+R019,Merrick Cold Chain,0.0,robust_no,waitlisted
+R021,Plover Logistics,0.0,robust_no,waitlisted
+R022,Ashcombe Microassembly,0.0,robust_no,rejected
+R024,Fielding Provisions,0.0,robust_no,waitlisted
+R026,Hale Motor Works,0.0,robust_no,rejected
+R027,Oster Circuit Assembly,0.0,robust_no,waitlisted
+R028,Vesper Formed Metal,0.0,robust_no,rejected
+R030,Norden Precision Parts,0.0,robust_no,waitlisted
+R031,Elmsworth Fulfillment,0.0,robust_no,waitlisted
+R032,Cairn Cartage,0.0,robust_no,waitlisted
+R037,Greave Vehicle Assembly,0.0,robust_no,rejected
+R039,Bromley Logistics,0.0,robust_no,waitlisted
+R040,Lumenfold Circuit Assembly,0.0,robust_no,rejected

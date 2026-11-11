@@ -1,0 +1,9 @@
+# pulp 2.9 bundles CBC. The allocator calls PULP_CBC_CMD, which uses that
+# binary and refuses a custom path, on macOS and Linux.
+numpy==2.5.4
+pandas==3.1.1
+pulp==2.9.0
+streamlit==1.67.0
+altair==6.3.0
+matplotlib==3.11.2
+pytest==9.2.0

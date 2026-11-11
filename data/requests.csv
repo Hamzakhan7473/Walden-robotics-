@@ -1,0 +1,41 @@
+request_id,customer_name,segment,task_type,robots_requested,duration_weeks,fde_hours_required,contract_value_usd,expansion_units_potential,success_prob,task_novelty,site_readiness,strategic_tier,safety_review_passed,loi_signed,requested_start_week
+R001,Calder Circuit Assembly,electronics,inspection,1,8,101,110000,1,0.7918,0.4129,4,standard,True,True,4
+R002,Northfen Chassis,auto_oem,assembly_assist,5,4,402,338000,10,0.7424,0.5689,5,standard,True,True,2
+R003,Millshaw Warehousing,3pl_warehouse,palletizing,4,10,223,308000,9,0.9057,0.1096,4,standard,True,True,1
+R004,Redoak Components,tier1_supplier,inspection,4,6,336,295000,19,0.7807,0.4979,4,anchor,True,True,5
+R005,Harlow Warehousing,3pl_warehouse,palletizing,2,4,139,68000,4,0.9243,0.1323,5,standard,True,True,3
+R006,Bexley Circuit Assembly,electronics,bin_picking,3,4,336,163000,8,0.5873,0.7871,3,investor_linked,True,True,2
+R007,Quarry Drive Systems,auto_oem,kitting,5,8,263,658000,35,0.8018,0.2857,4,investor_linked,True,True,2
+R008,Lantern Warehousing,3pl_warehouse,bin_picking,3,8,261,194000,10,0.5681,0.7643,4,investor_linked,True,True,1
+R009,Westmere Chassis,auto_oem,kitting,6,8,587,901000,15,0.7196,0.3166,1,standard,True,True,5
+R010,Cinder Precision Parts,tier1_supplier,kitting,3,6,244,219000,10,0.6945,0.3716,2,reference_logo,True,True,11
+R011,Lowridge Components,tier1_supplier,kitting,3,8,164,313000,12,0.8195,0.3307,5,anchor,True,True,12
+R012,Pember Provisions,food_bev,inspection,3,6,200,185000,3,0.7149,0.5529,4,standard,True,True,7
+R013,Kittredge Stamping,tier1_supplier,assembly_assist,3,4,206,167000,8,0.6777,0.7043,5,investor_linked,True,True,3
+R014,Ironwharf Device Works,electronics,bin_picking,1,10,166,111000,1,0.5188,0.79,2,standard,True,True,11
+R015,Dovetail Logistics,3pl_warehouse,palletizing,5,12,316,461000,0,0.802,0.1654,4,standard,True,True,2
+R016,Bracken Warehousing,3pl_warehouse,packing,4,8,187,223000,9,0.9109,0.2482,4,standard,True,True,4
+R017,Yarrow Chassis,auto_oem,machine_tending,2,6,162,204000,0,0.8378,0.1253,3,standard,True,True,3
+R018,Holt Precision Parts,tier1_supplier,assembly_assist,3,6,260,174000,0,0.6011,0.639,3,standard,True,True,7
+R019,Merrick Cold Chain,food_bev,inspection,3,6,267,113000,3,0.687,0.5758,2,standard,True,True,4
+R020,Dunlin Stamping,tier1_supplier,kitting,5,12,406,848000,15,0.818,0.3603,3,reference_logo,True,True,7
+R021,Plover Logistics,3pl_warehouse,packing,3,6,291,161000,0,0.8549,0.2093,2,standard,True,True,5
+R022,Ashcombe Microassembly,electronics,bin_picking,3,6,328,219000,4,0.4988,0.737,3,standard,False,True,10
+R023,Rookery Chassis,auto_oem,machine_tending,3,12,153,702000,15,0.8713,0.1621,4,investor_linked,True,True,1
+R024,Fielding Provisions,food_bev,kitting,2,12,152,232000,2,0.7814,0.4354,4,standard,True,True,4
+R025,Tarn Circuit Assembly,electronics,kitting,3,12,210,461000,15,0.7924,0.3539,4,anchor,True,True,7
+R026,Hale Motor Works,auto_oem,assembly_assist,2,8,181,244000,0,0.6401,0.6256,2,standard,True,False,6
+R027,Oster Circuit Assembly,electronics,bin_picking,4,4,332,226000,10,0.5401,0.855,4,reference_logo,True,True,6
+R028,Vesper Formed Metal,tier1_supplier,inspection,1,10,138,132000,2,0.5902,0.5632,3,reference_logo,True,False,3
+R029,Keel Microassembly,electronics,bin_picking,3,10,241,335000,4,0.5719,0.8892,4,standard,True,True,2
+R030,Norden Precision Parts,tier1_supplier,inspection,3,8,271,266000,0,0.6891,0.4584,3,standard,True,True,5
+R031,Elmsworth Fulfillment,3pl_warehouse,packing,3,10,232,256000,6,0.7593,0.3438,3,standard,True,True,7
+R032,Cairn Cartage,3pl_warehouse,palletizing,2,8,168,135000,11,0.7322,0.2251,3,investor_linked,True,True,1
+R033,Whitlow Fulfillment,3pl_warehouse,inspection,3,6,224,145000,11,0.6714,0.6252,4,investor_linked,True,True,1
+R034,Soren Circuit Assembly,electronics,inspection,2,6,189,153000,0,0.735,0.4767,4,standard,True,True,1
+R035,Marlow Components,tier1_supplier,kitting,3,10,169,370000,6,0.8506,0.2363,5,reference_logo,True,True,2
+R036,Pellin Circuit Assembly,electronics,assembly_assist,4,6,330,274000,6,0.5534,0.8121,4,standard,True,True,1
+R037,Greave Vehicle Assembly,auto_oem,machine_tending,4,12,247,994000,11,0.95,0.0531,4,standard,False,True,6
+R038,Anvil Beverage Pack,food_bev,kitting,6,8,345,374000,10,0.8609,0.4094,5,investor_linked,True,True,12
+R039,Bromley Logistics,3pl_warehouse,packing,4,4,266,136000,6,0.7428,0.3565,5,standard,True,True,8
+R040,Lumenfold Circuit Assembly,electronics,bin_picking,3,8,483,262000,5,0.5341,0.7732,1,standard,True,True,6

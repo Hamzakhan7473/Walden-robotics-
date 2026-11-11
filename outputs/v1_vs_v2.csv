@@ -1,0 +1,41 @@
+request_id,customer_name,in_v1,in_v2,set_status,v1_in_horizon_robot_weeks,v2_in_horizon_robot_weeks
+R031,Elmsworth Fulfillment,True,False,v1_only,18.0,0.0
+R012,Pember Provisions,False,True,v2_only,0.0,18.0
+R007,Quarry Drive Systems,True,True,both,40.0,40.0
+R011,Lowridge Components,True,True,both,3.0,3.0
+R014,Ironwharf Device Works,True,True,both,2.0,2.0
+R020,Dunlin Stamping,True,True,both,30.0,30.0
+R023,Rookery Chassis,True,True,both,36.0,36.0
+R025,Tarn Circuit Assembly,True,True,both,18.0,18.0
+R029,Keel Microassembly,True,True,both,30.0,30.0
+R033,Whitlow Fulfillment,True,True,both,18.0,18.0
+R035,Marlow Components,True,True,both,30.0,30.0
+R036,Pellin Circuit Assembly,True,True,both,24.0,24.0
+R038,Anvil Beverage Pack,True,True,both,6.0,6.0
+R001,Calder Circuit Assembly,False,False,neither,0.0,0.0
+R002,Northfen Chassis,False,False,neither,0.0,0.0
+R003,Millshaw Warehousing,False,False,neither,0.0,0.0
+R004,Redoak Components,False,False,neither,0.0,0.0
+R005,Harlow Warehousing,False,False,neither,0.0,0.0
+R006,Bexley Circuit Assembly,False,False,neither,0.0,0.0
+R008,Lantern Warehousing,False,False,neither,0.0,0.0
+R009,Westmere Chassis,False,False,neither,0.0,0.0
+R010,Cinder Precision Parts,False,False,neither,0.0,0.0
+R013,Kittredge Stamping,False,False,neither,0.0,0.0
+R015,Dovetail Logistics,False,False,neither,0.0,0.0
+R016,Bracken Warehousing,False,False,neither,0.0,0.0
+R017,Yarrow Chassis,False,False,neither,0.0,0.0
+R018,Holt Precision Parts,False,False,neither,0.0,0.0
+R019,Merrick Cold Chain,False,False,neither,0.0,0.0
+R021,Plover Logistics,False,False,neither,0.0,0.0
+R022,Ashcombe Microassembly,False,False,neither,0.0,0.0
+R024,Fielding Provisions,False,False,neither,0.0,0.0
+R026,Hale Motor Works,False,False,neither,0.0,0.0
+R027,Oster Circuit Assembly,False,False,neither,0.0,0.0
+R028,Vesper Formed Metal,False,False,neither,0.0,0.0
+R030,Norden Precision Parts,False,False,neither,0.0,0.0
+R032,Cairn Cartage,False,False,neither,0.0,0.0
+R034,Soren Circuit Assembly,False,False,neither,0.0,0.0
+R037,Greave Vehicle Assembly,False,False,neither,0.0,0.0
+R039,Bromley Logistics,False,False,neither,0.0,0.0
+R040,Lumenfold Circuit Assembly,False,False,neither,0.0,0.0
